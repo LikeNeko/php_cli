@@ -1,0 +1,20 @@
+{
+    "name": "neko/cli",
+    "description": "控制台输出带颜色字符串",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "neko",
+            "email": "1330040125@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Neko\\Cli\\": "src"
+        }
+    },
+    "require": {
+    }
+}
