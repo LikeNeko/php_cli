@@ -1,5 +1,5 @@
 <?php
-namespace Neko\CLi;
+namespace Neko\Cli;
 
 /**
  * Log样式
