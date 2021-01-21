@@ -1,5 +1,5 @@
 {
-    "name": "LikeNeko/cli",
+    "name": "like-neko/cli",
     "description": "控制台输出带颜色字符串",
     "type": "library",
     "license": "mit",
