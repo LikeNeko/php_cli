@@ -2,6 +2,7 @@
 namespace Neko\CLi;
 
 /**
+ * Log样式
  * @method static info($text)
  * @method static warn($text)
  * @method static note($text)

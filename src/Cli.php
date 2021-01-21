@@ -41,7 +41,7 @@ class Cli{
         echo self::colorfulString($text,'WARNING').PHP_EOL;
     }
 
-    private static function colorfulString($text, $type = NULL) {
+    protected static function colorfulString($text, $type = NULL) {
         $colors = array(
             'WARNING'   => '1;33',
             'NOTE'      => '1;36',
